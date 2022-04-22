@@ -1,0 +1,10 @@
+# Files
+*/data/*.txt 
+
+# Folders
+*insp/
+*.vscode/
+*__pycache__/
+
+# Filetypes
+*.class
